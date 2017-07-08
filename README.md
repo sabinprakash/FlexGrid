@@ -1,4 +1,3 @@
 # FlexGrid
-.Simple flex grid system inspired from <a href="http://getbootstrap.com/" target="_blank">bootstrap.</a>
-.smple to use
-.several column align options
+Simple flex grid system inspired from [bootstrap](http://getbootstrap.com/).  
+simple to use.  
