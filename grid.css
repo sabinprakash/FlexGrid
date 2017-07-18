@@ -5,6 +5,10 @@
 .container-fluid {padding: 0 15px;}
 
 .row-fluid {display: flex; flex-direction: row; flex-wrap: wrap; margin: 0 -15px;}
+.items-top {align-items: flex-start;}
+.items-center {align-items: center;}
+.items-bottom {align-items: flex-end;}
+
 .col,
 .col1,
 .col2,
@@ -78,7 +82,9 @@
 .col1,
 .col-sm1,
 .col-xs1 {width: 8.33333333%;}
-.align-center {margin-left: auto; margin-right: auto;}
+.col-left {margin-left: 0; margin-right: auto;}
+.col-center {margin-left: auto; margin-right: auto;}
+.col-right {margin-left: auto; margin-right: 0;}
 
 @media(max-width: 992px) {
     .col1,
